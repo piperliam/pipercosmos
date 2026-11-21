@@ -1,0 +1,1 @@
+GMAT is the main propigator for this project, and thus it is our "source of truth". The smaller propagators will use the ephemeris files generated from this and then work from there.
